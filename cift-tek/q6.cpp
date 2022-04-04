@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+//girilen sayıları teklik ve çiftlik durumuna göre ayıran, 
+//dicamik olarak bellek ayırıp sayıları diziye kaydeden,
+//son olarak bu sayıları yazdıran program.
 
 
 int main(){
